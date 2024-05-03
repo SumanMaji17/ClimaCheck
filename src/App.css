@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 450px;
+  padding: 18px 10px;
+  margin: auto;
+  border-radius: 4px;
+  box-shadow: 0 3px 6px 0 #555;
+  background: rgba(240, 240, 240, 0.5);
+  font-family: Montserrat;
+}
+
+.title {
+  color: black;
+  margin: 16px auto;
+  font-size: 30px;
+  font-weight: bold;
+  color: blue;
+  /* text-decoration: underline; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.error {
+  color: red;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .container{
+    width: 270px;
+  }
+  .title{
+    font-size: 25px;
+  }
+}
