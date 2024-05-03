@@ -67,7 +67,7 @@ function App() {
     if (latitude !== null && longitude !== null) {
       fetchWeatherByLatLong();
     }
-  }, [latitude, longitude]);
+  }, [latitude, longitude,ApiKey]);
   return (
     <div className="container">
       <span className="title">ClimaCheck</span>
