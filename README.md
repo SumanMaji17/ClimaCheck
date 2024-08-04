@@ -16,6 +16,8 @@ The app provides instant weather updates based on the user's current geolocation
 Integration with weather APIs ensures accurate and up-to-date information.
 Users can access real-time weather data without manual input.
 
+![weather](https://github.com/SumanMaji17/ClimaCheck/blob/main/public/ScreenShot/WeatherApplication.png?raw=true)
+
 
 
 
@@ -24,3 +26,5 @@ Users can access real-time weather data without manual input.
 Users can search for weather information by entering a city name.
 Seamless integration with React.js enables smooth autocomplete and error handling.
 City search feature enhances user experience and accessibility.
+
+![weather](https://github.com/SumanMaji17/ClimaCheck/blob/main/public/ScreenShot/WeatherApplication2.png?raw=true)
